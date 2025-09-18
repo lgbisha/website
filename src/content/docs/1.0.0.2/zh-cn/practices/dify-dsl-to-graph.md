@@ -5,8 +5,7 @@ description: "本文讲解如何将 Dify 平台上开发的 AI 应用，转换�
 ---
 
 ## 操作说明
-导出操作说明，请参考 [spring-ai-alibaba-graph-studio](https://github.com/alibaba/spring-ai-alibaba/tree/main/spring-ai-alibaba-graph/spring-ai-alibaba-graph-studio) 模块，快速生成 Spring AI Alibaba 工程。
-
+导出操作说明，请参考 [spring-ai-alibaba-graph-studio](https://github.com/alibaba/spring-ai-alibaba/tree/v1.0.0.3/spring-ai-alibaba-graph/spring-ai-alibaba-graph-studio) 模块，快速生成 Spring AI Alibaba 工程。
 在启动 Graph Studio 后，当前可以调用如下 HTTP 请求生成，该请求将自动生成 Spring AI Alibaba 工程的 zip 包。
 
 ```shell
